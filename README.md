@@ -1,5 +1,3 @@
-# n8n-stock-portfolio-chat-agent
-AI chat agent built with n8n that tracks my stock portfolio using Marketstack and Google Sheets
 # Stock Portfolio Chat Agent (n8n)
 
 I built this small project in n8n to keep track of my stock portfolio by just chatting with it. It reads my holdings from a Google Sheet, gets the latest prices from Marketstack, and can add new trades to the sheet when I ask.
